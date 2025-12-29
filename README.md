@@ -77,9 +77,12 @@ The project focuses on building a strong foundation in computers and information
 ## 👤 Author
 
 **Dharmendra Singh**  
-Project: **Computer Gurukul**
+Project: 
+**Computer Gurukul**
 
 ---
+
+Live :- https://aa-computer-gurukul-1p9v.vercel.app/
 
 ## ⚠️ Disclaimer
 
